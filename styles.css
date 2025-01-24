@@ -171,27 +171,12 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
 }
 
 .Left-Benner {
     width: 50%;
     height: 600px;
-}
-
-.Right-Benner {
-    width: 50%;
-    height: 600px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.Right-Benner img {
-    width: 292px;
-    height: 502px;
-    background-image: cover;
-    float: right;
 }
 
 .Wide-Square {
@@ -269,9 +254,84 @@ nav {
     align-items: center;
 }
 
-.Right-Square .Text-Text {
-    display: flex;
-    flex-direction: column;
-    
+.Right-Square .Title-Text {
+        margin-left: 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
 }
 
+.Right-Square .Title-Text p:nth-child(1) {
+    color: white;
+    font-size: 29px;
+}
+
+.Right-Square .Title-Text p:nth-child(2) {
+    color: white;
+    font-size: 20px;
+}
+
+.Right-Square .Title-Text p:nth-child(3) {
+    color: #909090;
+    font-size: 14;
+}
+
+.Right-Benner {
+    width: 50%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Right-Benner img {
+    width: 292px;
+    height: 502px;
+    background-image: cover;
+    float: right;
+}
+
+.Right-Benner .Content {
+    width: 360px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+
+.Right-Benner .Content .Title-Text {
+    width: 260px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.Right-Benner .Content .Title-Text p:nth-child(1) {
+    font-size: 64px;
+    color: black;
+}
+.Right-Benner .Content .Title-Text p:nth-child(2) {
+    font-size: 64px;
+    font-weight: bold;
+    color: black;
+}
+.Right-Benner .Content .Title-Text p:nth-child(3) {
+    font-size: 14px;
+    color: #909090;
+}
+
+.Right-Benner .Content .Button {
+    width: 191px;
+    height: 56px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 70px;
+    cursor: pointer;
+}
