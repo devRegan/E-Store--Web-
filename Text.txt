@@ -1,0 +1,25 @@
+.Right-Square {
+    width: 360px;
+    height: 272px;
+    background-color: #353535;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: start; /* Align items to the start horizontally */
+    padding: 10px; /* Optional: Add padding for spacing */
+    gap: 20px; /* Optional: Add space between img and Title-Text */
+}
+
+.Right-Square img {
+    max-width: 80px; /* Set a max width for the image */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.Title-Text {
+    display: flex;
+    flex-direction: column; /* Stack text vertically */
+    justify-content: center; /* Center text vertically in its container */
+    align-items: start; /* Center text horizontally */
+    flex-grow: 1; /* Allow Title-Text to take up the remaining space */
+    text-align: center; /* Center align text inside Title-Text */
+    color: white; /* Optional: Set text color */
+}
