@@ -36,18 +36,3 @@ To view the website locally, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-
-
-### Explanation of Sections:
-- **Title and Introduction**: Gives a brief overview of the website and technologies used.
-- **Features**: Summarizes the features you plan to include.
-- **Technologies Used**: Mentions the core technologies and design tools.
-- **Figma Design Reference**: Placeholder for the Figma URL.
-- **Website Demo**: Placeholder for the live website link.
-- **Installation**: Instructions to run the website locally.
-- **Contributing**: A section for others to contribute to your project.
-- **License**: Mentions the MIT License, you can change it depending on your choice.
-
-Just replace the placeholders like `#` with the actual URLs and add the image URLs once you have them.
-
-Feel free to add any additional information or sections as needed!
