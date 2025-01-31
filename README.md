@@ -16,11 +16,11 @@ Hello, I'm **Regan**, and I created this E-Commerce website using **SCSS**, **HT
 
 ## Figma Design Reference
 You can view the Figma design here:  
-[**Figma Design**](#)
+[**Figma Design**](https://www.figma.com/design/IWlMDd30NN8GnxJi5I4iQl/E-Store---Mobile%2Fweb-(Community)-(Copy)?node-id=2607-6390&p=f&t=kAMj16raP45ccOlr-0)
 
 ## Website Demo
 Check out the live website at:  
-[**Main Website**](#)
+[**Main Website**](https://devregan.github.io/E-Store-Web/)
 
 ## Screenshot of Website
 Below is a preview of the website (image will be added later):
