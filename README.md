@@ -24,7 +24,8 @@ Check out the live website at:
 
 ## Screenshot of Website
 Below is a preview of the website (image will be added later):
-![Alt Text]()
+![Screenshot](./review/Screenshot%20from%202025-01-31%2022-21-37.png)
+
 
 
 ![Website Preview](#)
