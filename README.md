@@ -35,4 +35,4 @@ To view the website locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/devRegan/E-Store-Web.git)
+   git clone https://github.com/devRegan/E-Store-Web.git
