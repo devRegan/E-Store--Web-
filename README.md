@@ -25,9 +25,7 @@ Check out the live website at:
 ## Screenshot of Website
 Below is a preview of the website (image will be added later):
 ![Screenshot](./review/Screenshot%20from%202025-01-31%2022-21-37.png)
-![Screenshot](./review/Screenshot from 2025-01-31 22-21-55.png)
-
-![Website Preview](#)
+![Screenshot](./review/Screenshot%20from%202025-01-31%2022-21-55.png)
 
 ## Installation
 
