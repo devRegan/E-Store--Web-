@@ -24,6 +24,8 @@ Check out the live website at:
 
 ## Screenshot of Website
 Below is a preview of the website (image will be added later):
+![Alt Text]()
+
 
 ![Website Preview](#)
 
